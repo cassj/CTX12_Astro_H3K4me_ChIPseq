@@ -1,0 +1,16 @@
+
+CTX12 Neural Stem Cell Line:
+
+  CMN050 = H3K4me3 IP
+  CMN051 = Input
+
+Astrocytes derived from CTX12 Using FBS:
+
+  CMN048 = H3K4me3 IP
+  CMN049 = Input
+
+Astrocytes derived from CTX12 Using BMP4:  
+
+  CMN046 = H3K4me3 IP
+  CMN047 = Input
+
